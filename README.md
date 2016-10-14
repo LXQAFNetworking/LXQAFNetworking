@@ -1,0 +1,2 @@
+# LXQAFNetworking
+简单封装了AFN的GET和POST网络请求，并且添加了通过AFN进行SOAP的webservice的POST网络请求。
